@@ -1,6 +1,5 @@
 # cd Desktop
-# git clone 
-https://github.com/thejiyoungsong/Computational-Social-Science-Projects.git
+# git clone https://github.com/thejiyoungsong/Computational-Social-Science-Projects.git
 # cd Computational-Social-Science-Projects
 # mkdir "Project 1"
 # cd "Project 1"
